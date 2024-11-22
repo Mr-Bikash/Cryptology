@@ -1,1 +1,1 @@
-# Cryptology
+# Cryptography Assignment
