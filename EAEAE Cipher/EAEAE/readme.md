@@ -1,4 +1,22 @@
-Step 1: Create and activate a new Python environment.
-Step 2: Launch Jupyter Notebook by executing the command "jupyter notebook".
-Step 3: Open the "Input_output_generator.ipynb" notebook and sequentially run all cells. This notebook will generate input strings in the "input_strings.txt" file and corresponding output strings in the "output_strings.txt" file.
-Step 4: Open the "EAEAE_Decryption.ipynb" notebook and run all cells to obtain the desired output.
+## How to Use
+
+### Steps:
+
+1. **Create and activate a new Python environment.**
+
+2. **Launch Jupyter Notebook**:
+   - Execute the following command:
+     ```bash
+     jupyter notebook
+     ```
+
+3. **Run the Input/Output Generator Notebook**:
+   - Open the `Input_output_generator.ipynb` notebook.
+   - Sequentially run all cells.
+   - This notebook will generate:
+     - Input strings saved in the `input_strings.txt` file.
+     - Corresponding output strings saved in the `output_strings.txt` file.
+
+4. **Run the Decryption Notebook**:
+   - Open the `EAEAE_Decryption.ipynb` notebook.
+   - Run all cells to obtain the desired output.
